@@ -1,0 +1,9 @@
+create a server (express)
+connect to mongoDB (driver:mongoose)
+create a model (mongoose: "document structure")
+ex : user = {
+    "name":"test",
+    "age":65668646
+}
+
+API : endpoints : routes where the client app could send http requests (POST GET PUT DELETE)
